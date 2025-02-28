@@ -10,6 +10,8 @@ public class demo2{
 
                 ans = i ;
                 System.out.println("your answer is "+ans);
+
+
             }
         }
     }
