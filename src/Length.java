@@ -1,4 +1,4 @@
-class Main{
+public class Length{
     public static void main(String[] args){
         int[] arr = {14,735,3333,223232};
         int count = 0;
